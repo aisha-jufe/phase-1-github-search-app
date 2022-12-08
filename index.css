@@ -11,3 +11,44 @@
 ul {
   list-style: none;
 }
+
+
+button{
+  padding: 20px 30px;
+  border: 0;
+  outline: none;
+  color: #000;
+  font-size: 20px;
+  border-radius: 30px;
+}
+p{
+  color: #fff;
+}
+
+body{
+    background: rgb(49, 49, 85);
+}
+h2{
+  font-family: 'Noto Sans Symbols', sans-serif;
+  color: #ffff;
+}
+#github-form{
+  padding: 20px 80px;
+  border-radius: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+.input{
+  padding: 20px 50px;
+  background: transparent;
+  border: 0;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border: 2px solid #fff;
+}
+.btn{
+  padding: 10px 30px;
+  border: 0;
+  outline: none;
+  background: white;
+}
